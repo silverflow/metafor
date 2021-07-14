@@ -16,6 +16,5 @@
 # Contact
 <div>
 [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://blog.metafor.kr)
-  
 [![Icloud Badge](https://img.shields.io/badge/icloud-3693F3?style=flat-square&logo=Gmail&logoColor=white&link=mailto:metapor@icloud.com)](mailto:metapor@icloud.com)
 </div>
