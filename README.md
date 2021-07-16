@@ -2,6 +2,7 @@
 - 데이터 및 클라우드 인프라 엔지니어
 
 ### Stack
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverflow&layout=compact)](https://github.com/silverflow)
 <p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
