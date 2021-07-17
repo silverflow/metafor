@@ -1,5 +1,6 @@
 ### metafor
 - 데이터 및 클라우드 인프라 엔지니어
+- 책 읽는 걸 좋아하고 글쓰는 걸 즐겨함
 
 ### Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverflow&layout=compact)](https://github.com/silverflow)
